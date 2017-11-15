@@ -14,7 +14,7 @@ info:
 ################################################################################
 #                            API Information                                   #
 ################################################################################
-host: http://domain.of.your.service
+host: https://domain.of.your.service
 basePath: /
 x-exosite-health-path: /health # This endpoint needs to return 2xx status code. If omitted basePath is used
 
