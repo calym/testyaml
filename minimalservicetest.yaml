@@ -15,8 +15,6 @@ info:
 #                            API Information                                   #
 ################################################################################
 host: google.com
-schemes:
-  - https
 basePath: /
 x-exosite-health-path: /health # This endpoint needs to return 2xx status code. If omitted basePath is used
 
